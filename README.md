@@ -7,4 +7,6 @@
 - Space Complexity : O(1)
 
 ## => Bubble Sort :
-#### 
+#### Repeatedly compare the adjacent elements ,if arr[j]>arr[j+1] swap them. The maximum element bubbles up to the end of the unsorted array. After n-1 iterations, we get sorted array.
+- Time Complexity : O(n^2)
+- Space Complexity : O(1)
